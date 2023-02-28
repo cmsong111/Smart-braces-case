@@ -219,3 +219,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,flutter,firebase,android
+ios/firebase_app_id_file.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+macos/firebase_app_id_file.json
+macos/Runner/GoogleService-Info.plist
